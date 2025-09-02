@@ -1,0 +1,279 @@
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+J1,217179-0001,Bottom,FP-2171790001-MFG,18.2,90.3625,0,CONN RCP USB2.0 TYP C 24P SMD RA
+R1,DNF,Bottom,RES_0402,85.5003,18.3465,90,Resistor SMD 0402
+U2,RP2040,Bottom,QFN-56-EP,96.4,9.8,270,32-Bit Dual-Core ARM Cortex-M0+ Microcontroller
+Y1,ABM8-272-T3,Bottom,XTAL_ABM8-272-T3,104.3003,11.2465,270,"12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead"
+U3,W25Q128JVSIM,Bottom,SOIC-8,89.3003,15.8465,270,"128M-BIT
+SERIAL FLASH MEMORY WITH
+DUAL/QUAD SPI & QPI & DTR SOIC-8"
+U1,NCP1117DT33RKG,Bottom,FP-369C-MFG,110.7586,5.8159,270,IC REG LINEAR 3.3V 1A DPAK-3
+SW1,SKRPANE010,Bottom,SKRPANE010,83.2003,14.9465,0,Tactile Switch SMD SPST
+R7,27,Bottom,RES_0402,87,9.6,0,Resistor SMD 0402
+R6,27,Bottom,RES_0402,87,7.5,180,Resistor SMD 0402
+R5,1k,Bottom,RES_0402,101.4003,10.7465,90,Resistor SMD 0402
+R3,1k,Bottom,RES_0402,83.9003,18.3465,90,Resistor SMD 0402
+R4,5k1,Bottom,RES_0402,24.7,87.2,0,Resistor SMD 0402
+R2,5k1,Bottom,RES_0402,16.5,86,180,Resistor SMD 0402
+P2,SM03B-SRSS-TB,Bottom,JST-SM03B-SRSS-TB_V,122.0875,13.1,270,"Male Header, Pitch 1 mm, 1 x 3 Position, Height 2.9 mm, -25 to 85 degC, RoHS, Tape and Reel"
+P1,SM03B-SRSS-TB,Bottom,JST-SM03B-SRSS-TB_V,114.3125,13.1,90,"Male Header, Pitch 1 mm, 1 x 3 Position, Height 2.9 mm, -25 to 85 degC, RoHS, Tape and Reel"
+D62,SBD,Bottom,SOD-323,264.8,2.7,270,Diode Schottky SMD SOD-323
+D61,SBD,Bottom,SOD-323,241,2.685,270,Diode Schottky SMD SOD-323
+D60,SBD,Bottom,SOD-323,217.2,2.7,270,Diode Schottky SMD SOD-323
+D59,SBD,Bottom,SOD-323,193.4,2.7,270,Diode Schottky SMD SOD-323
+D58,SBD,Bottom,SOD-323,121.9,2.7,270,Diode Schottky SMD SOD-323
+D57,SBD,Bottom,SOD-323,50.5,2.7,270,Diode Schottky SMD SOD-323
+D56,SBD,Bottom,SOD-323,26.7,2.7,270,Diode Schottky SMD SOD-323
+D55,SBD,Bottom,SOD-323,2.9,2.7,270,Diode Schottky SMD SOD-323
+D54,SBD,Bottom,SOD-323,250.6,21.75,270,Diode Schottky SMD SOD-323
+D53,SBD,Bottom,SOD-323,214.8575,21.75,270,Diode Schottky SMD SOD-323
+D52,SBD,Bottom,SOD-323,195.8075,21.75,270,Diode Schottky SMD SOD-323
+D51,SBD,Bottom,SOD-323,176.7575,21.75,270,Diode Schottky SMD SOD-323
+D50,SBD,Bottom,SOD-323,157.7075,21.75,270,Diode Schottky SMD SOD-323
+D49,SBD,Bottom,SOD-323,138.6575,21.75,270,Diode Schottky SMD SOD-323
+D48,SBD,Bottom,SOD-323,119.6075,21.75,270,Diode Schottky SMD SOD-323
+D47,SBD,Bottom,SOD-323,100.5575,21.75,270,Diode Schottky SMD SOD-323
+D46,SBD,Bottom,SOD-323,81.5075,21.75,270,Diode Schottky SMD SOD-323
+D45,SBD,Bottom,SOD-323,62.4575,21.75,270,Diode Schottky SMD SOD-323
+D44,SBD,Bottom,SOD-323,43.4,21.75,270,Diode Schottky SMD SOD-323
+D43,SBD,Bottom,SOD-323,12.4,21.75,270,Diode Schottky SMD SOD-323
+D42,SBD,Bottom,SOD-323,255.4,40.8,270,Diode Schottky SMD SOD-323
+D41,SBD,Bottom,SOD-323,224.3875,40.8,270,Diode Schottky SMD SOD-323
+D40,SBD,Bottom,SOD-323,205.3375,40.8,270,Diode Schottky SMD SOD-323
+D39,SBD,Bottom,SOD-323,186.2875,40.8,270,Diode Schottky SMD SOD-323
+D38,SBD,Bottom,SOD-323,167.2375,40.8,270,Diode Schottky SMD SOD-323
+D37,SBD,Bottom,SOD-323,148.1875,40.8,270,Diode Schottky SMD SOD-323
+D36,SBD,Bottom,SOD-323,129.1375,40.8,270,Diode Schottky SMD SOD-323
+D35,SBD,Bottom,SOD-323,110.0875,40.8,270,Diode Schottky SMD SOD-323
+D34,SBD,Bottom,SOD-323,91.0375,40.8,270,Diode Schottky SMD SOD-323
+D33,SBD,Bottom,SOD-323,71.9875,40.8,270,Diode Schottky SMD SOD-323
+D32,SBD,Bottom,SOD-323,52.9375,40.8,270,Diode Schottky SMD SOD-323
+D31,SBD,Bottom,SOD-323,33.9,40.8,270,Diode Schottky SMD SOD-323
+D30,SBD,Bottom,SOD-323,7.6,40.8,270,Diode Schottky SMD SOD-323
+D29,SBD,Bottom,SOD-323,262.4275,59.875,270,Diode Schottky SMD SOD-323
+D28,SBD,Bottom,SOD-323,238.6175,59.875,270,Diode Schottky SMD SOD-323
+D27,SBD,Bottom,SOD-323,219.5675,59.875,270,Diode Schottky SMD SOD-323
+D26,SBD,Bottom,SOD-323,200.5175,59.875,270,Diode Schottky SMD SOD-323
+D25,SBD,Bottom,SOD-323,181.4675,59.875,270,Diode Schottky SMD SOD-323
+D24,SBD,Bottom,SOD-323,162.4175,59.875,270,Diode Schottky SMD SOD-323
+D23,SBD,Bottom,SOD-323,143.3675,59.875,270,Diode Schottky SMD SOD-323
+D22,SBD,Bottom,SOD-323,124.3175,59.875,270,Diode Schottky SMD SOD-323
+D21,SBD,Bottom,SOD-323,105.2675,59.875,270,Diode Schottky SMD SOD-323
+D20,SBD,Bottom,SOD-323,86.2175,59.875,270,Diode Schottky SMD SOD-323
+D19,SBD,Bottom,SOD-323,67.1675,59.875,270,Diode Schottky SMD SOD-323
+D18,SBD,Bottom,SOD-323,48.1175,59.875,270,Diode Schottky SMD SOD-323
+D17,SBD,Bottom,SOD-323,29.0675,59.875,270,Diode Schottky SMD SOD-323
+D16,SBD,Bottom,SOD-323,5.25,59.875,270,Diode Schottky SMD SOD-323
+D15,SBD,Bottom,SOD-323,261.5025,78.875,270,Diode Schottky SMD SOD-323
+D14,SBD,Bottom,SOD-323,229.15,78.875,270,Diode Schottky SMD SOD-323
+D13,SBD,Bottom,SOD-323,210.1,78.875,270,Diode Schottky SMD SOD-323
+D12,SBD,Bottom,SOD-323,191.05,78.875,270,Diode Schottky SMD SOD-323
+D11,SBD,Bottom,SOD-323,172,78.875,270,Diode Schottky SMD SOD-323
+D10,SBD,Bottom,SOD-323,152.95,78.875,270,Diode Schottky SMD SOD-323
+D9,SBD,Bottom,SOD-323,133.9,78.875,270,Diode Schottky SMD SOD-323
+D8,SBD,Bottom,SOD-323,114.85,78.875,270,Diode Schottky SMD SOD-323
+D7,SBD,Bottom,SOD-323,95.8,78.875,270,Diode Schottky SMD SOD-323
+D6,SBD,Bottom,SOD-323,76.75,78.875,270,Diode Schottky SMD SOD-323
+D5,SBD,Bottom,SOD-323,57.7,78.875,270,Diode Schottky SMD SOD-323
+D4,SBD,Bottom,SOD-323,38.65,78.875,270,Diode Schottky SMD SOD-323
+D3,SBD,Bottom,SOD-323,19.6,78.875,270,Diode Schottky SMD SOD-323
+D2,SBD,Bottom,SOD-323,3.3,77.4,0,Diode Schottky SMD SOD-323
+D1,USBLC6-2SC6,Bottom,SOT-23-6,19.6463,84.4194,0,Low-Capacitance ESD Protection USB
+C77,100n,Bottom,CAP_1206,274.5776,18.0121,0,Capacitor SMD 1206
+C76,100n,Bottom,CAP_1206,250.837,18.0121,0,Capacitor SMD 1206
+C75,100n,Bottom,CAP_1206,226.9341,18.0121,0,Capacitor SMD 1206
+C74,100n,Bottom,CAP_1206,203.1251,18.0121,0,Capacitor SMD 1206
+C73,100n,Bottom,CAP_1206,131.7688,18.0121,0,Capacitor SMD 1206
+C72,100n,Bottom,CAP_1206,60.2991,18.0121,0,Capacitor SMD 1206
+C71,100n,Bottom,CAP_1206,36.4818,18.0121,0,Capacitor SMD 1206
+C70,100n,Bottom,CAP_1206,12.7028,18.0121,0,Capacitor SMD 1206
+C69,100n,Bottom,CAP_1206,260.25,37,0,Capacitor SMD 1206
+C68,100n,Bottom,CAP_1206,224.55,37,0,Capacitor SMD 1206
+C67,100n,Bottom,CAP_1206,205.55,37,0,Capacitor SMD 1206
+C66,100n,Bottom,CAP_1206,186.5,37,0,Capacitor SMD 1206
+C65,100n,Bottom,CAP_1206,167.4,37,0,Capacitor SMD 1206
+C64,100n,Bottom,CAP_1206,148.35,37,0,Capacitor SMD 1206
+C63,100n,Bottom,CAP_1206,129.3,37,0,Capacitor SMD 1206
+C62,100n,Bottom,CAP_1206,110.3,37,0,Capacitor SMD 1206
+C61,100n,Bottom,CAP_1206,91.25,37,0,Capacitor SMD 1206
+C60,100n,Bottom,CAP_1206,72.15,37,0,Capacitor SMD 1206
+C59,100n,Bottom,CAP_1206,53.1,37,0,Capacitor SMD 1206
+C58,100n,Bottom,CAP_1206,22.15,37,0,Capacitor SMD 1206
+C57,100n,Bottom,CAP_1206,265.0538,56.1121,0,Capacitor SMD 1206
+C56,100n,Bottom,CAP_1206,234.1038,56.1121,0,Capacitor SMD 1206
+C55,100n,Bottom,CAP_1206,215.0036,56.1121,0,Capacitor SMD 1206
+C54,100n,Bottom,CAP_1206,196.0038,56.1121,0,Capacitor SMD 1206
+C53,100n,Bottom,CAP_1206,176.9538,56.1121,0,Capacitor SMD 1206
+C52,100n,Bottom,CAP_1206,157.8538,56.1121,0,Capacitor SMD 1206
+C51,100n,Bottom,CAP_1206,138.8038,56.1121,0,Capacitor SMD 1206
+C50,100n,Bottom,CAP_1206,119.8038,56.1121,0,Capacitor SMD 1206
+C49,100n,Bottom,CAP_1206,100.7538,56.1121,0,Capacitor SMD 1206
+C48,100n,Bottom,CAP_1206,81.6538,56.1121,0,Capacitor SMD 1206
+C47,100n,Bottom,CAP_1206,62.6538,56.1121,0,Capacitor SMD 1206
+C46,100n,Bottom,CAP_1206,43.5538,56.1121,0,Capacitor SMD 1206
+C45,100n,Bottom,CAP_1206,17.4037,56.1121,0,Capacitor SMD 1206
+C44,100n,Bottom,CAP_1206,272.2,75.1,0,Capacitor SMD 1206
+C43,100n,Bottom,CAP_1206,248.4,75.1,0,Capacitor SMD 1206
+C42,100n,Bottom,CAP_1206,229.3,75.1,0,Capacitor SMD 1206
+C41,100n,Bottom,CAP_1206,210.25,75.1,0,Capacitor SMD 1206
+C40,100n,Bottom,CAP_1206,191.2,75.1,0,Capacitor SMD 1206
+C39,100n,Bottom,CAP_1206,172.15,75.1,0,Capacitor SMD 1206
+C38,100n,Bottom,CAP_1206,153.1,75.1,0,Capacitor SMD 1206
+C37,100n,Bottom,CAP_1206,134.05,75.1,0,Capacitor SMD 1206
+C36,100n,Bottom,CAP_1206,115,75.1,0,Capacitor SMD 1206
+C35,100n,Bottom,CAP_1206,96,75.1,0,Capacitor SMD 1206
+C34,100n,Bottom,CAP_1206,76.95,75.1,0,Capacitor SMD 1206
+C33,100n,Bottom,CAP_1206,57.85,75.1,0,Capacitor SMD 1206
+C32,100n,Bottom,CAP_1206,38.85,75.1,0,Capacitor SMD 1206
+C31,100n,Bottom,CAP_1206,15,75.1,0,Capacitor SMD 1206
+C30,100n,Bottom,CAP_1206,276.35,92.1,180,Capacitor SMD 1206
+C29,100n,Bottom,CAP_1206,243.95,92.1,180,Capacitor SMD 1206
+C28,100n,Bottom,CAP_1206,224.9,92.1,180,Capacitor SMD 1206
+C27,100n,Bottom,CAP_1206,205.8,92.1,180,Capacitor SMD 1206
+C26,100n,Bottom,CAP_1206,186.75,92.1,180,Capacitor SMD 1206
+C25,100n,Bottom,CAP_1206,167.75,92.1,180,Capacitor SMD 1206
+C24,100n,Bottom,CAP_1206,148.65,92.1,180,Capacitor SMD 1206
+C23,100n,Bottom,CAP_1206,129.6,92.1,180,Capacitor SMD 1206
+C22,100n,Bottom,CAP_1206,110.55,92.1,180,Capacitor SMD 1206
+C21,100n,Bottom,CAP_1206,91.55,92.1,180,Capacitor SMD 1206
+C20,100n,Bottom,CAP_1206,72.45,92.1,180,Capacitor SMD 1206
+C19,100n,Bottom,CAP_1206,53.4,92.1,180,Capacitor SMD 1206
+C18,100n,Bottom,CAP_1206,34.4,92.1,180,Capacitor SMD 1206
+C17,100n,Bottom,CAP_1206,3,92.8,0,Capacitor SMD 1206
+C16,100n,Bottom,CAP_0402,107.2003,10.7465,90,Capacitor SMD 0402
+C15,100n,Bottom,CAP_0402,85.1,12,0,Capacitor SMD 0402
+C14,100n,Bottom,CAP_0402,101.4003,13.2465,90,Capacitor SMD 0402
+C13,100n,Bottom,CAP_0402,103,5.6,270,Capacitor SMD 0402
+C12,100n,Bottom,CAP_0402,116.9036,3.5158,270,Capacitor SMD 0402
+C11,100n,Bottom,CAP_0402,101.4003,8.1465,90,Capacitor SMD 0402
+C10,100n,Bottom,CAP_0402,89.8,11.2,0,Capacitor SMD 0402
+C9,1u,Bottom,CAP_0402,91,7.6,0,Capacitor SMD 0402
+C8,100n,Bottom,CAP_0402,89.8,9.6,0,Capacitor SMD 0402
+C7,100n,Bottom,CAP_0402,103.0003,8.1465,90,Capacitor SMD 0402
+C6,100n,Bottom,CAP_0402,93.8169,15.3139,270,Capacitor SMD 0402
+C5,100n,Bottom,CAP_0402,97.4135,15.3139,270,Capacitor SMD 0402
+C4,100n,Bottom,CAP_0402,91,4.4,0,Capacitor SMD 0402
+C3,100n,Bottom,CAP_0402,93.1,4.4,90,Capacitor SMD 0402
+C2,100n,Bottom,CAP_0402,97.4,4.4,90,Capacitor SMD 0402
+C1,1u,Bottom,CAP_0402,91,6,0,Capacitor SMD 0402
+D123,SK6812-E,Bottom,LED_SK6812-E,273.47,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D122,SK6812-E,Bottom,LED_SK6812-E,249.66,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D121,SK6812-E,Bottom,LED_SK6812-E,225.85,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D120,SK6812-E,Bottom,LED_SK6812-E,202.04,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D119,SK6812-E,Bottom,LED_SK6812-E,130.595,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D118,SK6812-E,Bottom,LED_SK6812-E,59.15,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D117,SK6812-E,Bottom,LED_SK6812-E,35.34,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D116,SK6812-E,Bottom,LED_SK6812-E,11.53,14.28,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D115,SK6812-E,Bottom,LED_SK6812-E,259.18,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D114,SK6812-E,Bottom,LED_SK6812-E,223.46,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D113,SK6812-E,Bottom,LED_SK6812-E,204.41,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D112,SK6812-E,Bottom,LED_SK6812-E,185.36,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D111,SK6812-E,Bottom,LED_SK6812-E,166.31,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D110,SK6812-E,Bottom,LED_SK6812-E,147.26,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D109,SK6812-E,Bottom,LED_SK6812-E,128.21,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D108,SK6812-E,Bottom,LED_SK6812-E,109.16,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D107,SK6812-E,Bottom,LED_SK6812-E,90.11,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D106,SK6812-E,Bottom,LED_SK6812-E,71.06,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D105,SK6812-E,Bottom,LED_SK6812-E,52.01,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D104,SK6812-E,Bottom,LED_SK6812-E,21.05,33.33,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D103,SK6812-E,Bottom,LED_SK6812-E,263.94,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D102,SK6812-E,Bottom,LED_SK6812-E,232.99,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D101,SK6812-E,Bottom,LED_SK6812-E,213.94,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D100,SK6812-E,Bottom,LED_SK6812-E,194.89,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D99,SK6812-E,Bottom,LED_SK6812-E,175.84,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D98,SK6812-E,Bottom,LED_SK6812-E,156.79,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D97,SK6812-E,Bottom,LED_SK6812-E,137.74,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D96,SK6812-E,Bottom,LED_SK6812-E,118.69,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D95,SK6812-E,Bottom,LED_SK6812-E,99.64,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D94,SK6812-E,Bottom,LED_SK6812-E,80.59,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D93,SK6812-E,Bottom,LED_SK6812-E,61.54,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D92,SK6812-E,Bottom,LED_SK6812-E,42.49,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D91,SK6812-E,Bottom,LED_SK6812-E,16.29,52.38,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D90,SK6812-E,Bottom,LED_SK6812-E,271.08,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D89,SK6812-E,Bottom,LED_SK6812-E,247.27,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D88,SK6812-E,Bottom,LED_SK6812-E,228.22,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D87,SK6812-E,Bottom,LED_SK6812-E,209.17,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D86,SK6812-E,Bottom,LED_SK6812-E,190.12,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D85,SK6812-E,Bottom,LED_SK6812-E,171.07,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D84,SK6812-E,Bottom,LED_SK6812-E,152.02,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D83,SK6812-E,Bottom,LED_SK6812-E,132.97,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D82,SK6812-E,Bottom,LED_SK6812-E,113.92,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D81,SK6812-E,Bottom,LED_SK6812-E,94.87,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D80,SK6812-E,Bottom,LED_SK6812-E,75.82,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D79,SK6812-E,Bottom,LED_SK6812-E,56.77,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D78,SK6812-E,Bottom,LED_SK6812-E,37.72,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D77,SK6812-E,Bottom,LED_SK6812-E,13.91,71.43,0,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D76,SK6812-E,Bottom,LED_SK6812-E,270.13,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D75,SK6812-E,Bottom,LED_SK6812-E,237.75,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D74,SK6812-E,Bottom,LED_SK6812-E,218.7,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D73,SK6812-E,Bottom,LED_SK6812-E,199.65,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D72,SK6812-E,Bottom,LED_SK6812-E,180.6,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D71,SK6812-E,Bottom,LED_SK6812-E,161.55,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D70,SK6812-E,Bottom,LED_SK6812-E,142.5,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D69,SK6812-E,Bottom,LED_SK6812-E,123.45,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D68,SK6812-E,Bottom,LED_SK6812-E,104.4,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D67,SK6812-E,Bottom,LED_SK6812-E,85.35,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D66,SK6812-E,Bottom,LED_SK6812-E,66.3,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D65,SK6812-E,Bottom,LED_SK6812-E,47.25,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D64,SK6812-E,Bottom,LED_SK6812-E,28.2,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+D63,SK6812-E,Bottom,LED_SK6812-E,9.15,90.48,180,"SK6812MINI-E is a smart LED control circuit and light emitting circuit in one controlled LED source, which has the shape of a 3528 LED chip."
+S61,PG151101S11,Bottom,SW_PG151101S11,274.105,6.66,0,Kailh Hotswap MX Socket
+S60,PG151101S11,Bottom,SW_PG151101S11,250.295,6.66,0,Kailh Hotswap MX Socket
+S59,PG151101S11,Bottom,SW_PG151101S11,226.485,6.66,0,Kailh Hotswap MX Socket
+S58,PG151101S11,Bottom,SW_PG151101S11,202.675,6.66,0,Kailh Hotswap MX Socket
+S57,PG151101S11,Bottom,SW_PG151101S11,131.23,6.66,0,Kailh Hotswap MX Socket
+S56,PG151101S11,Bottom,SW_PG151101S11,59.785,6.66,0,Kailh Hotswap MX Socket
+S55,PG151101S11,Bottom,SW_PG151101S11,35.975,6.66,0,Kailh Hotswap MX Socket
+S54,PG151101S11,Bottom,SW_PG151101S11,12.165,6.66,0,Kailh Hotswap MX Socket
+S53,PG151101S11,Bottom,SW_PG151101S11,259.815,25.71,0,Kailh Hotswap MX Socket
+S52,PG151101S11,Bottom,SW_PG151101S11,224.095,25.71,0,Kailh Hotswap MX Socket
+S51,PG151101S11,Bottom,SW_PG151101S11,205.045,25.71,0,Kailh Hotswap MX Socket
+S50,PG151101S11,Bottom,SW_PG151101S11,185.995,25.71,0,Kailh Hotswap MX Socket
+S49,PG151101S11,Bottom,SW_PG151101S11,166.945,25.71,0,Kailh Hotswap MX Socket
+S48,PG151101S11,Bottom,SW_PG151101S11,147.895,25.71,0,Kailh Hotswap MX Socket
+S47,PG151101S11,Bottom,SW_PG151101S11,128.845,25.71,0,Kailh Hotswap MX Socket
+S46,PG151101S11,Bottom,SW_PG151101S11,109.795,25.71,0,Kailh Hotswap MX Socket
+S45,PG151101S11,Bottom,SW_PG151101S11,90.745,25.71,0,Kailh Hotswap MX Socket
+S44,PG151101S11,Bottom,SW_PG151101S11,71.695,25.71,0,Kailh Hotswap MX Socket
+S43,PG151101S11,Bottom,SW_PG151101S11,52.645,25.71,0,Kailh Hotswap MX Socket
+S42,PG151101S11,Bottom,SW_PG151101S11,21.685,25.71,0,Kailh Hotswap MX Socket
+S41,PG151101S11,Bottom,SW_PG151101S11,264.575,44.76,0,Kailh Hotswap MX Socket
+S40,PG151101S11,Bottom,SW_PG151101S11,233.625,44.76,0,Kailh Hotswap MX Socket
+S39,PG151101S11,Bottom,SW_PG151101S11,214.575,44.76,0,Kailh Hotswap MX Socket
+S38,PG151101S11,Bottom,SW_PG151101S11,195.525,44.76,0,Kailh Hotswap MX Socket
+S37,PG151101S11,Bottom,SW_PG151101S11,176.475,44.76,0,Kailh Hotswap MX Socket
+S36,PG151101S11,Bottom,SW_PG151101S11,157.425,44.76,0,Kailh Hotswap MX Socket
+S35,PG151101S11,Bottom,SW_PG151101S11,138.375,44.76,0,Kailh Hotswap MX Socket
+S34,PG151101S11,Bottom,SW_PG151101S11,119.325,44.76,0,Kailh Hotswap MX Socket
+S33,PG151101S11,Bottom,SW_PG151101S11,100.275,44.76,0,Kailh Hotswap MX Socket
+S32,PG151101S11,Bottom,SW_PG151101S11,81.225,44.76,0,Kailh Hotswap MX Socket
+S31,PG151101S11,Bottom,SW_PG151101S11,62.175,44.76,0,Kailh Hotswap MX Socket
+S30,PG151101S11,Bottom,SW_PG151101S11,43.125,44.76,0,Kailh Hotswap MX Socket
+S29,PG151101S11,Bottom,SW_PG151101S11,16.925,44.76,0,Kailh Hotswap MX Socket
+S28,PG151101S11,Bottom,SW_PG151101S11,271.715,63.81,0,Kailh Hotswap MX Socket
+S27,PG151101S11,Bottom,SW_PG151101S11,247.905,63.81,0,Kailh Hotswap MX Socket
+S26,PG151101S11,Bottom,SW_PG151101S11,228.855,63.81,0,Kailh Hotswap MX Socket
+S25,PG151101S11,Bottom,SW_PG151101S11,209.805,63.81,0,Kailh Hotswap MX Socket
+S24,PG151101S11,Bottom,SW_PG151101S11,190.755,63.81,0,Kailh Hotswap MX Socket
+S23,PG151101S11,Bottom,SW_PG151101S11,171.705,63.81,0,Kailh Hotswap MX Socket
+S22,PG151101S11,Bottom,SW_PG151101S11,152.655,63.81,0,Kailh Hotswap MX Socket
+S21,PG151101S11,Bottom,SW_PG151101S11,133.605,63.81,0,Kailh Hotswap MX Socket
+S20,PG151101S11,Bottom,SW_PG151101S11,114.555,63.81,0,Kailh Hotswap MX Socket
+S19,PG151101S11,Bottom,SW_PG151101S11,95.505,63.81,0,Kailh Hotswap MX Socket
+S18,PG151101S11,Bottom,SW_PG151101S11,76.455,63.81,0,Kailh Hotswap MX Socket
+S17,PG151101S11,Bottom,SW_PG151101S11,57.405,63.81,0,Kailh Hotswap MX Socket
+S16,PG151101S11,Bottom,SW_PG151101S11,38.355,63.81,0,Kailh Hotswap MX Socket
+S15,PG151101S11,Bottom,SW_PG151101S11,14.545,63.81,0,Kailh Hotswap MX Socket
+S14,PG151101S11,Bottom,SW_PG151101S11,270.765,82.86,0,Kailh Hotswap MX Socket
+S13,PG151101S11,Bottom,SW_PG151101S11,238.385,82.86,0,Kailh Hotswap MX Socket
+S12,PG151101S11,Bottom,SW_PG151101S11,219.335,82.86,0,Kailh Hotswap MX Socket
+S11,PG151101S11,Bottom,SW_PG151101S11,200.285,82.86,0,Kailh Hotswap MX Socket
+S10,PG151101S11,Bottom,SW_PG151101S11,181.235,82.86,0,Kailh Hotswap MX Socket
+S9,PG151101S11,Bottom,SW_PG151101S11,162.185,82.86,0,Kailh Hotswap MX Socket
+S8,PG151101S11,Bottom,SW_PG151101S11,143.135,82.86,0,Kailh Hotswap MX Socket
+S7,PG151101S11,Bottom,SW_PG151101S11,124.085,82.86,0,Kailh Hotswap MX Socket
+S6,PG151101S11,Bottom,SW_PG151101S11,105.035,82.86,0,Kailh Hotswap MX Socket
+S5,PG151101S11,Bottom,SW_PG151101S11,85.985,82.86,0,Kailh Hotswap MX Socket
+S4,PG151101S11,Bottom,SW_PG151101S11,66.935,82.86,0,Kailh Hotswap MX Socket
+S3,PG151101S11,Bottom,SW_PG151101S11,47.885,82.86,0,Kailh Hotswap MX Socket
+S2,PG151101S11,Bottom,SW_PG151101S11,28.835,82.86,0,Kailh Hotswap MX Socket
+S1,PG151101S11,Bottom,SW_PG151101S11,9.785,82.86,0,Kailh Hotswap MX Socket
