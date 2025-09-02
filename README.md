@@ -1,5 +1,4 @@
-# Keyboard PCB
-
+# 60% Mechancial Keyboard PCB
 This repository showcases a 61-switch mechanical keyboard PCB made in Altium Designer for DFM with JLCPCB. The board is powered by a Raspberry Pi RP2040 chip on a 6-layer SIG-GND-PWR-SIG-GND-SIG stack up and follows the standard [GH60](https://github.com/komar007/gh60) layout + sizing for modern 60% mechanical keyboard cases. It features per-key RGB LED lighting, hot-swap sockets for MX-style switches, USB-C power & ESD protection, as well as support for UART, SWD, and UF2 bootloading. 
 
 ## Schematic
